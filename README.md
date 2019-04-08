@@ -1,21 +1,20 @@
 
 <div align="center">
   <img src="/assets/README-378c6778.png" alt="OG I/O logo">
-  
+
   ![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 </div>
-<br>
+<br/>
 <div align="center">
 <img src="/assets/README-13f280ca.gif" alt="wut?"><img src="/assets/README-13f280ca.gif">
 </div>
-
+<br/>
 <div align="right">
 "The most dangerous js library I know"
-
-- Data Science OG
+– Data Science OG
 </div>
 
-## OG I/O... what it"s all "bout?
+## OG I/O... what it's all "bout?
 
 ### Install
 
