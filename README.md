@@ -1,19 +1,22 @@
 
 <div align="center">
   <img src="/assets/README-378c6778.png" alt="OG I/O logo">
-
-  ![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 </div>
+
+<div align="center">
+![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+</div>
+
 <div align="center">
 <img src="/assets/README-13f280ca.gif" alt="wut?"><img src="/assets/README-13f280ca.gif">
 </div>
 
 <div align="right">
-**"The most dangerous js library I know"**
+** "The most dangerous js library I know" **
 - Data Science OG
 </div>
 
-## OG I/O... what it's all 'bout?
+## OG I/O... what it"s all "bout?
 
 ### Install
 
@@ -21,35 +24,35 @@
 npm i ogio
 ```
 ```js
-require('ogio')
+require("ogio")
 ```
 
 
 ### Fetch!
 
 ```js
-'file.txt'.g()
+"file.txt".g()
 // => This is a text!
 ```
 
 ```js
-await '@file.txt'.g()
+await "@file.txt".g()
 // => This is the same text, but async!
 ```
 
 ```js
-'file.json'.g()
-// => {a: 1, b: 2, c: 3, txt: 'Parsed json'}
+"file.json".g()
+// => {a: 1, b: 2, c: 3, txt: "Parsed json"}
 ```
 
 ```js
-await 'https://example.com'.g()
+await "https://example.com".g()
 // => <html> ... </html>
 ```
 
 ```js
-await 'https://example.com/file.json'.g()
-// => {txt 'Parsed json from example.com'}
+await "https://example.com/file.json".g()
+// => {txt "Parsed json from example.com"}
 ```
 
 **...More stuff is coming**
