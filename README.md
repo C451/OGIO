@@ -10,11 +10,11 @@
 </div>
 <br/>
 <div align="right">
-"The most dangerous js library I know"
+<strong>"The most dangerous js library I know"</strong><br/>
 – Data Science OG
 </div>
 
-## OG I/O... what it's all "bout?
+## OG I/O... what it's all 'bout?
 
 ### Install
 
