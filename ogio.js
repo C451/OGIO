@@ -2,6 +2,13 @@
 const fetch = require('node-fetch')
 const fs = require('fs')
 
+/**
+ * String.prototype.g - fetch everything 
+ *
+ * @param  {type} typ Select data type explicitly:
+ *                    text | json
+ * @return {type}     Data | Promise
+ */
 String.prototype.g = function(typ) {
 
     let path = this.toString()
@@ -26,8 +33,8 @@ function fetch_web(url, typ) {
     return fetch(url).then(res => {
         let ct = res.headers.get('content-type')
         if (!ct) {
-            // reject
-            return
+            if (!typ) { typ = 'text' }
+            ct = ''
         }
         if (typ === 'text' || ct.includes('text/'))  {
             return res.text()
