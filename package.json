@@ -1,0 +1,23 @@
+{
+  "name": "ogio",
+  "version": "0.3.0",
+  "description": "",
+  "main": "ogio.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "C451",
+  "license": "MIT",
+  "files": [],
+  "keywords": [
+      "fetch",
+      "og",
+      "data",
+      "science",
+      "syntax",
+      "sugar"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
