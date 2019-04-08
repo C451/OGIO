@@ -1,18 +1,15 @@
 
 <div align="center">
   <img src="/assets/README-378c6778.png" alt="OG I/O logo">
+  ![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 </div>
-
-<div align="center">
-![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-</div>
-
+<br>
 <div align="center">
 <img src="/assets/README-13f280ca.gif" alt="wut?"><img src="/assets/README-13f280ca.gif">
 </div>
 
 <div align="right">
-** "The most dangerous js library I know" **
+"**The most dangerous js library I know**"
 - Data Science OG
 </div>
 
