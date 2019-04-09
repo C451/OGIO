@@ -1,7 +1,7 @@
 {
   "name": "ogio",
   "version": "0.3.1",
-  "description": "",
+  "description": "Be real OG, fetch everything with g(). File and web I/O combined.",
   "main": "ogio.js",
   "scripts": {
     "test": "node test.js"
@@ -12,12 +12,12 @@
   "homepage": "https://github.com/C451/OGIO#readme",
   "repository": "github:C451/OGIO",
   "keywords": [
-      "fetch",
-      "og",
-      "data",
-      "science",
-      "syntax",
-      "sugar"
+    "fetch",
+    "og",
+    "data",
+    "science",
+    "syntax",
+    "sugar"
   ],
   "dependencies": {
     "node-fetch": "^2.3.0"
