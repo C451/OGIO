@@ -1,6 +1,6 @@
 {
   "name": "ogio",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Be real OG, fetch everything with g(). File and web I/O combined.",
   "main": "ogio.js",
   "scripts": {

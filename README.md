@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/C451/OGIO/raw/master/assets/README-378c6778.png" alt="OG I/O logo">
+  <img src="/assets/README-0503b97c.png" alt="OG I/O logo">
 
   ![npm](https://img.shields.io/npm/v/ogio.svg?color=brightgreen&label=version) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 </div>
