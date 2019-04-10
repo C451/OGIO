@@ -30,17 +30,17 @@ require("ogio")
 
 ```js
 "file.txt".g()
-// => This is a text!
+// => This is a text
 ```
 
 ```js
 await "@file.txt".g()
-// => This is the same text, but async!
+// => This is the same text, but async
 ```
 
 ```js
 "file.json".g()
-// => {a: 1, b: 2, c: 3, txt: "Parsed json"}
+// => {txt: "Parsed json"}
 ```
 
 ```js
@@ -51,6 +51,25 @@ await "https://example.com".g()
 ```js
 await "https://example.com/file.json".g()
 // => {txt: "Parsed json from example.com"}
+```
+
+### Save!
+
+```js
+"file.txt".s("This will be a text")
+// => This will be a text
+```
+
+```js
+await "@file.txt".s("The same text, but async")
+// => The same text, but async
+```
+
+```js
+"file.json".s({txt:"json smth"})
+// => {
+//        "txt": "json smth"
+//    }
 ```
 
 **...More stuff is coming**
